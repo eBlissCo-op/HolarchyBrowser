@@ -1,0 +1,3 @@
+[submodule "supportable"]
+	path = supportable
+	url = https://github.com/eBlissCo-op/Supportable.git
