@@ -1,0 +1,17 @@
+npm verb cli /usr/local/share/nvm/versions/node/v22.17.0/bin/node /home/codespace/nvm/current/bin/npm
+npm info using npm@9.8.1
+npm info using node@v22.17.0
+npm verb title npm install
+npm verb argv "install" "--loglevel" "verbose"
+npm verb logfile logs-max:10 dir:/home/codespace/.npm/_logs/2025-11-04T22_55_33_059Z-
+npm verb logfile /home/codespace/.npm/_logs/2025-11-04T22_55_33_059Z-debug-0.log
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 247ms
+
+up to date, audited 106 packages in 606ms
+
+22 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm verb exit 0
+npm info ok 
